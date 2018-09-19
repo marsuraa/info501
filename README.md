@@ -1,3 +1,3 @@
 # info501
 
-Dépot pour la numération, tout les TPs sont ici.
+Dépot pour le python, tous les TPs sont ici.
